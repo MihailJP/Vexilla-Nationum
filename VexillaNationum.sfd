@@ -6,12 +6,12 @@ Weight: Medium
 Copyright: Created by MihailJP with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2012-1-28: Created." 
 Version: 001.000
-StrokeWidth: 100
+StrokeWidth: 48
 ItalicAngle: 0
 UnderlinePosition: -202
 UnderlineWidth: 100
-Ascent: 1638
-Descent: 410
+Ascent: 1664
+Descent: 384
 LayerCount: 2
 Layer: 0 0 "+gMyXYgAA"  1
 Layer: 1 0 "+Uk2XYgAA"  0
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327739605
+ModificationTime: 1327747962
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -46,7 +46,7 @@ Lookup: 4 0 0 "Compositio figurarum vexillorum"  {"Compositio figurarum vexillor
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
-Encoding: UnicodeFull
+Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
@@ -54,10 +54,301 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 0 16 6
+WinInfo: 32 16 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 122
+Grid
+2048 1664 m 9,0,0
+1664 1664 m 17,0,0
+1920 1664 m 9,0,0
+1408 1664 m 25,0,0
+1152 1664 m 25,0,0
+640 1664 m 17,0,0
+896 1664 m 9,0,0
+384 1664 m 25,0,0
+128 1664 m 25,0,0
+1536 1664 m 17,0,0
+1792 1664 m 9,0,0
+1280 1664 m 25,0,0
+1024 1664 m 25,0,0
+512 1664 m 17,0,0
+768 1664 m 9,0,0
+256 1664 m 25,0,0
+0 1664 m 25,0,0
+2048 1152 m 9,0,0
+1664 1152 m 17,0,0
+1920 1152 m 9,0,0
+1408 1152 m 25,0,0
+1152 1152 m 25,0,0
+640 1152 m 17,0,0
+896 1152 m 9,0,0
+384 1152 m 25,0,0
+128 1152 m 25,0,0
+1536 1152 m 17,0,0
+1792 1152 m 9,0,0
+1280 1152 m 25,0,0
+1024 1152 m 25,0,0
+512 1152 m 17,0,0
+768 1152 m 9,0,0
+256 1152 m 25,0,0
+0 1152 m 25,0,0
+2048 1280 m 9,0,0
+1664 1280 m 17,0,0
+1920 1280 m 9,0,0
+1408 1280 m 25,0,0
+1152 1280 m 25,0,0
+640 1280 m 17,0,0
+896 1280 m 9,0,0
+384 1280 m 25,0,0
+128 1280 m 25,0,0
+1536 1280 m 17,0,0
+1792 1280 m 9,0,0
+1280 1280 m 25,0,0
+1024 1280 m 25,0,0
+512 1280 m 17,0,0
+768 1280 m 9,0,0
+256 1280 m 25,0,0
+0 1280 m 25,0,0
+2048 1408 m 9,0,0
+1664 1408 m 17,0,0
+1920 1408 m 9,0,0
+1408 1408 m 25,0,0
+1152 1408 m 25,0,0
+640 1408 m 17,0,0
+896 1408 m 9,0,0
+384 1408 m 25,0,0
+128 1408 m 25,0,0
+1536 1408 m 17,0,0
+1792 1408 m 9,0,0
+1280 1408 m 25,0,0
+1024 1408 m 25,0,0
+512 1408 m 17,0,0
+768 1408 m 9,0,0
+256 1408 m 25,0,0
+0 1408 m 25,0,0
+2048 1536 m 9,0,0
+1664 1536 m 17,0,0
+1920 1536 m 9,0,0
+1408 1536 m 25,0,0
+1152 1536 m 25,0,0
+640 1536 m 17,0,0
+896 1536 m 9,0,0
+384 1536 m 25,0,0
+128 1536 m 25,0,0
+1536 1536 m 17,0,0
+1792 1536 m 9,0,0
+1280 1536 m 25,0,0
+1024 1536 m 25,0,0
+512 1536 m 17,0,0
+768 1536 m 9,0,0
+256 1536 m 25,0,0
+0 1536 m 25,0,0
+2048 640 m 9,0,0
+1664 640 m 17,0,0
+1920 640 m 9,0,0
+1408 640 m 25,0,0
+1152 640 m 25,0,0
+640 640 m 17,0,0
+896 640 m 9,0,0
+384 640 m 25,0,0
+128 640 m 25,0,0
+1536 640 m 17,0,0
+1792 640 m 9,0,0
+1280 640 m 25,0,0
+1024 640 m 25,0,0
+512 640 m 17,0,0
+768 640 m 9,0,0
+256 640 m 25,0,0
+0 640 m 25,0,0
+2048 768 m 9,0,0
+1664 768 m 17,0,0
+1920 768 m 9,0,0
+1408 768 m 25,0,0
+1152 768 m 25,0,0
+640 768 m 17,0,0
+896 768 m 9,0,0
+384 768 m 25,0,0
+128 768 m 25,0,0
+1536 768 m 17,0,0
+1792 768 m 9,0,0
+1280 768 m 25,0,0
+1024 768 m 25,0,0
+512 768 m 17,0,0
+768 768 m 9,0,0
+256 768 m 25,0,0
+0 768 m 25,0,0
+2048 896 m 9,0,0
+1664 896 m 17,0,0
+1920 896 m 9,0,0
+1408 896 m 25,0,0
+1152 896 m 25,0,0
+640 896 m 17,0,0
+896 896 m 9,0,0
+384 896 m 25,0,0
+128 896 m 25,0,0
+1536 896 m 17,0,0
+1792 896 m 9,0,0
+1280 896 m 25,0,0
+1024 896 m 25,0,0
+512 896 m 17,0,0
+768 896 m 9,0,0
+256 896 m 25,0,0
+0 896 m 25,0,0
+2048 1024 m 9,0,0
+1664 1024 m 17,0,0
+1920 1024 m 9,0,0
+1408 1024 m 25,0,0
+1152 1024 m 25,0,0
+640 1024 m 17,0,0
+896 1024 m 9,0,0
+384 1024 m 25,0,0
+128 1024 m 25,0,0
+1536 1024 m 17,0,0
+1792 1024 m 9,0,0
+1280 1024 m 25,0,0
+1024 1024 m 25,0,0
+512 1024 m 17,0,0
+768 1024 m 9,0,0
+256 1024 m 25,0,0
+0 1024 m 25,0,0
+2048 128 m 9,0,0
+1664 128 m 17,0,0
+1920 128 m 9,0,0
+1408 128 m 25,0,0
+1152 128 m 25,0,0
+640 128 m 17,0,0
+896 128 m 9,0,0
+384 128 m 25,0,0
+128 128 m 25,0,0
+1536 128 m 17,0,0
+1792 128 m 9,0,0
+1280 128 m 25,0,0
+1024 128 m 25,0,0
+512 128 m 17,0,0
+768 128 m 9,0,0
+256 128 m 25,0,0
+0 128 m 25,0,0
+2048 256 m 9,0,0
+1664 256 m 17,0,0
+1920 256 m 9,0,0
+1408 256 m 25,0,0
+1152 256 m 25,0,0
+640 256 m 17,0,0
+896 256 m 9,0,0
+384 256 m 25,0,0
+128 256 m 25,0,0
+1536 256 m 17,0,0
+1792 256 m 9,0,0
+1280 256 m 25,0,0
+1024 256 m 25,0,0
+512 256 m 17,0,0
+768 256 m 9,0,0
+256 256 m 25,0,0
+0 256 m 25,0,0
+2048 384 m 9,0,0
+1664 384 m 17,0,0
+1920 384 m 9,0,0
+1408 384 m 25,0,0
+1152 384 m 25,0,0
+640 384 m 17,0,0
+896 384 m 9,0,0
+384 384 m 25,0,0
+128 384 m 25,0,0
+1536 384 m 17,0,0
+1792 384 m 9,0,0
+1280 384 m 25,0,0
+1024 384 m 25,0,0
+512 384 m 17,0,0
+768 384 m 9,0,0
+256 384 m 25,0,0
+0 384 m 25,0,0
+2048 512 m 9,0,0
+1664 512 m 17,0,0
+1920 512 m 9,0,0
+1408 512 m 25,0,0
+1152 512 m 25,0,0
+640 512 m 17,0,0
+896 512 m 9,0,0
+384 512 m 25,0,0
+128 512 m 25,0,0
+1536 512 m 17,0,0
+1792 512 m 9,0,0
+1280 512 m 25,0,0
+1024 512 m 25,0,0
+512 512 m 17,0,0
+768 512 m 9,0,0
+256 512 m 25,0,0
+0 512 m 25,0,0
+2048 -384 m 9,0,0
+1664 -384 m 17,0,0
+1920 -384 m 9,0,0
+1408 -384 m 25,0,0
+1152 -384 m 25,0,0
+640 -384 m 17,0,0
+896 -384 m 9,0,0
+384 -384 m 25,0,0
+128 -384 m 25,0,0
+1536 -384 m 17,0,0
+1792 -384 m 9,0,0
+1280 -384 m 25,0,0
+1024 -384 m 25,0,0
+512 -384 m 17,0,0
+768 -384 m 9,0,0
+256 -384 m 25,0,0
+0 -384 m 25,0,0
+2048 -256 m 9,0,0
+1664 -256 m 17,0,0
+1920 -256 m 9,0,0
+1408 -256 m 25,0,0
+1152 -256 m 25,0,0
+640 -256 m 17,0,0
+896 -256 m 9,0,0
+384 -256 m 25,0,0
+128 -256 m 25,0,0
+1536 -256 m 17,0,0
+1792 -256 m 9,0,0
+1280 -256 m 25,0,0
+1024 -256 m 25,0,0
+512 -256 m 17,0,0
+768 -256 m 9,0,0
+256 -256 m 25,0,0
+0 -256 m 25,0,0
+2048 -128 m 9,0,0
+1664 -128 m 17,0,0
+1920 -128 m 9,0,0
+1408 -128 m 25,0,0
+1152 -128 m 25,0,0
+640 -128 m 17,0,0
+896 -128 m 9,0,0
+384 -128 m 25,0,0
+128 -128 m 25,0,0
+1536 -128 m 17,0,0
+1792 -128 m 9,0,0
+1280 -128 m 25,0,0
+1024 -128 m 25,0,0
+512 -128 m 17,0,0
+768 -128 m 9,0,0
+256 -128 m 25,0,0
+0 -128 m 25,0,0
+2048 0 m 9,0,0
+1664 0 m 17,0,0
+1920 0 m 9,0,0
+1408 0 m 25,0,0
+1152 0 m 25,0,0
+640 0 m 17,0,0
+896 0 m 9,0,0
+384 0 m 25,0,0
+128 0 m 25,0,0
+1536 0 m 17,0,0
+1792 0 m 9,0,0
+1280 0 m 25,0,0
+1024 0 m 25,0,0
+512 0 m 17,0,0
+768 0 m 9,0,0
+256 0 m 25,0,0
+0 0 m 25,0,0
+EndSplineSet
+BeginChars: 65562 123
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -1541,7 +1832,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aregio
-Encoding: 127462 127462 96
+Encoding: 65536 127462 96
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1551,7 +1842,7 @@ Refer: 34 65 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Bregio
-Encoding: 127463 127463 97
+Encoding: 65537 127463 97
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1561,7 +1852,7 @@ Refer: 35 66 N 1 0 0 1 121 0 2
 EndChar
 
 StartChar: Cregio
-Encoding: 127464 127464 98
+Encoding: 65538 127464 98
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1571,7 +1862,7 @@ Refer: 36 67 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Dregio
-Encoding: 127465 127465 99
+Encoding: 65539 127465 99
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1581,7 +1872,7 @@ Refer: 37 68 N 1 0 0 1 59.5 0 2
 EndChar
 
 StartChar: Eregio
-Encoding: 127466 127466 100
+Encoding: 65540 127466 100
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1591,7 +1882,7 @@ Refer: 38 69 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Fregio
-Encoding: 127467 127467 101
+Encoding: 65541 127467 101
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1601,7 +1892,7 @@ Refer: 39 70 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Gregio
-Encoding: 127468 127468 102
+Encoding: 65542 127468 102
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1611,7 +1902,7 @@ Refer: 40 71 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Hregio
-Encoding: 127469 127469 103
+Encoding: 65543 127469 103
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1621,7 +1912,7 @@ Refer: 41 72 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Iregio
-Encoding: 127470 127470 104
+Encoding: 65544 127470 104
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1631,7 +1922,7 @@ Refer: 42 73 N 1 0 0 1 318 0 2
 EndChar
 
 StartChar: Jregio
-Encoding: 127471 127471 105
+Encoding: 65545 127471 105
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1641,7 +1932,7 @@ Refer: 43 74 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Kregio
-Encoding: 127472 127472 106
+Encoding: 65546 127472 106
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1651,7 +1942,7 @@ Refer: 44 75 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Lregio
-Encoding: 127473 127473 107
+Encoding: 65547 127473 107
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1661,7 +1952,7 @@ Refer: 45 76 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Mregio
-Encoding: 127474 127474 108
+Encoding: 65548 127474 108
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1671,7 +1962,7 @@ Refer: 46 77 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Nregio
-Encoding: 127475 127475 109
+Encoding: 65549 127475 109
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1681,7 +1972,7 @@ Refer: 47 78 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Oregio
-Encoding: 127476 127476 110
+Encoding: 65550 127476 110
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1691,7 +1982,7 @@ Refer: 48 79 N 1 0 0 1 -2 0 2
 EndChar
 
 StartChar: Pregio
-Encoding: 127477 127477 111
+Encoding: 65551 127477 111
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1701,7 +1992,7 @@ Refer: 49 80 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Qregio
-Encoding: 127478 127478 112
+Encoding: 65552 127478 112
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1711,7 +2002,7 @@ Refer: 50 81 N 1 0 0 1 -2 0 2
 EndChar
 
 StartChar: Rregio
-Encoding: 127479 127479 113
+Encoding: 65553 127479 113
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1721,7 +2012,7 @@ Refer: 51 82 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Sregio
-Encoding: 127480 127480 114
+Encoding: 65554 127480 114
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1731,7 +2022,7 @@ Refer: 52 83 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Tregio
-Encoding: 127481 127481 115
+Encoding: 65555 127481 115
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1741,7 +2032,7 @@ Refer: 53 84 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Uregio
-Encoding: 127482 127482 116
+Encoding: 65556 127482 116
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1751,7 +2042,7 @@ Refer: 54 85 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Vregio
-Encoding: 127483 127483 117
+Encoding: 65557 127483 117
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1761,7 +2052,7 @@ Refer: 55 86 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Wregio
-Encoding: 127484 127484 118
+Encoding: 65558 127484 118
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1771,7 +2062,7 @@ Refer: 56 87 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Xregio
-Encoding: 127485 127485 119
+Encoding: 65559 127485 119
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1781,7 +2072,7 @@ Refer: 57 88 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Yregio
-Encoding: 127486 127486 120
+Encoding: 65560 127486 120
 Width: 1411
 Flags: W
 LayerCount: 2
@@ -1791,13 +2082,76 @@ Refer: 58 89 N 1 0 0 1 113 0 2
 EndChar
 
 StartChar: Zregio
-Encoding: 127487 127487 121
+Encoding: 65561 127487 121
 Width: 1411
 Flags: W
 LayerCount: 2
 Fore
 Refer: 0 0 N 1 0 0 1 0 0 2
 Refer: 59 90 N 1 0 0 1 113 0 2
+EndChar
+
+StartChar: Russia
+Encoding: 61173 61173 122
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+1920 412 m 25
+ 1920 -43 l 25
+1792 412 m 25
+ 1792 -43 l 25
+1664 412 m 25
+ 1664 -43 l 25
+1536 412 m 25
+ 1536 -43 l 25
+1408 412 m 25
+ 1408 -43 l 25
+1280 412 m 25
+ 1280 -43 l 25
+1152 412 m 25
+ 1152 -43 l 25
+1024 412 m 25
+ 1024 -43 l 25
+896 412 m 25
+ 896 -43 l 25
+768 412 m 25
+ 768 -43 l 25
+640 412 m 25
+ 640 -43 l 25
+512 412 m 25
+ 512 -43 l 25
+384 412 m 25
+ 384 -43 l 25
+256 412 m 25
+ 256 -43 l 25
+128 412 m 25
+ 128 -43 l 25
+0 768 m 25
+ 2048 768 l 17
+0 640 m 9
+ 2048 640 l 17
+0 512 m 9
+ 2048 512 l 17
+0 868 m 1
+ 2048 868 l 1
+ 2048 1323 l 1
+ 0 1323 l 1
+ 0 868 l 1
+0 -43 m 1
+ 2048 -43 l 1
+ 2048 412 l 1
+ 0 412 l 1
+ 0 -43 l 1
+0 412 m 1
+ 2048 412 l 1
+ 2048 868 l 1
+ 0 868 l 1
+ 0 412 l 1
+EndSplineSet
+LCarets2: 1 0 
+Ligature2: "Compositio figurarum vexillorum-1" Rregio Uregio
 EndChar
 EndChars
 EndSplineFont
