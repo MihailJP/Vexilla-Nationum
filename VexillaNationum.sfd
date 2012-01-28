@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327747962
+ModificationTime: 1327749050
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -348,7 +348,7 @@ Grid
 256 0 m 25,0,0
 0 0 m 25,0,0
 EndSplineSet
-BeginChars: 65562 123
+BeginChars: 65562 124
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -2152,6 +2152,42 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Compositio figurarum vexillorum-1" Rregio Uregio
+EndChar
+
+StartChar: Iaponia
+Encoding: 60912 60912 123
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+1408 820 m 25
+ 1408 460 l 25
+1280 990 m 25
+ 1280 290 l 25
+1152 1036 m 25
+ 1152 244 l 25
+1024 1049 m 25
+ 1024 230 l 25
+896 1036 m 25
+ 896 244 l 25
+768 990 m 25
+ 768 290 l 25
+640 820 m 25
+ 640 460 l 25
+0 -43 m 1
+ 2048 -43 l 1
+ 2048 1322 l 1
+ 0 1322 l 1
+ 0 -43 l 1
+614 640 m 0
+ 614 367 751 230 1024 230 c 0
+ 1297 230 1434 367 1434 640 c 0
+ 1434 913 1297 1049 1024 1049 c 0
+ 751 1049 614 913 614 640 c 0
+EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "Compositio figurarum vexillorum-1" Jregio Pregio 
 EndChar
 EndChars
 EndSplineFont
