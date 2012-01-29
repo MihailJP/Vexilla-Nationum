@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327749050
+ModificationTime: 1327808412
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -348,7 +348,7 @@ Grid
 256 0 m 25,0,0
 0 0 m 25,0,0
 EndSplineSet
-BeginChars: 65562 124
+BeginChars: 65562 125
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -2188,6 +2188,64 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Compositio figurarum vexillorum-1" Jregio Pregio 
+EndChar
+
+StartChar: Francia
+Encoding: 60786 60786 124
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+1920 1338 m 25
+ 1920 -27 l 25
+1792 1338 m 25
+ 1792 -27 l 25
+1664 1338 m 25
+ 1664 -27 l 25
+1536 1338 m 25
+ 1536 -27 l 25
+1408 1338 m 25
+ 1408 -27 l 25
+0 0 m 25
+ 683 0 l 25
+0 128 m 25
+ 683 128 l 25
+0 256 m 25
+ 683 256 l 25
+0 384 m 25
+ 683 384 l 25
+0 512 m 25
+ 683 512 l 25
+0 640 m 25
+ 683 640 l 25
+0 768 m 25
+ 683 768 l 25
+0 896 m 25
+ 683 896 l 25
+0 1024 m 25
+ 683 1024 l 25
+0 1152 m 25
+ 683 1152 l 25
+0 1280 m 25
+ 683 1280 l 25
+0 -27 m 1
+ 2048 -27 l 1
+ 2048 1338 l 1
+ 0 1338 l 1
+ 0 -27 l 1
+0 -27 m 1
+ 1365 -27 l 1
+ 1365 1338 l 1
+ 0 1338 l 1
+ 0 -27 l 1
+0 -27 m 1
+ 683 -27 l 1
+ 683 1338 l 1
+ 0 1338 l 1
+ 0 -27 l 1
+EndSplineSet
+Ligature2: "Compositio figurarum vexillorum-1" Fregio Rregio
 EndChar
 EndChars
 EndSplineFont
