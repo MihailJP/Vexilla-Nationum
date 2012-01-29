@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327837067
+ModificationTime: 1327837883
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -47,14 +47,13 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 96 16 2
+WinInfo: 60864 16 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1692,7 +1691,7 @@ Grid
 256 0 m 25
 0 0 m 25
 EndSplineSet
-BeginChars: 65563 139
+BeginChars: 65563 140
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -5866,6 +5865,104 @@ SplineSet
  0 -43 l 1
 EndSplineSet
 Ligature2: "Compositio figurarum vexillorum-1" Uregio Aregio
+EndChar
+
+StartChar: Hibernia
+Encoding: 60869 60869 139
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+1408 128 m 1
+ 1408 469.333 1408 810.667 1408 1152 c 1
+1472 128 m 1
+ 1472 469.333 1472 810.667 1472 1152 c 1
+1536 128 m 1
+ 1536 469.333 1536 810.667 1536 1152 c 1
+1600 128 m 1
+ 1600 469.333 1600 810.667 1600 1152 c 1
+1664 128 m 1
+ 1664 469.333 1664 810.667 1664 1152 c 1
+1728 128 m 1
+ 1728 469.333 1728 810.667 1728 1152 c 1
+1792 128 m 1
+ 1792 469.333 1792 810.667 1792 1152 c 1
+1856 128 m 1
+ 1856 469.333 1856 810.667 1856 1152 c 1
+1920 128 m 1
+ 1920 469.333 1920 810.667 1920 1152 c 1
+1984 128 m 1
+ 1984 469.333 1984 810.667 1984 1152 c 1
+1365 171 m 25
+ 1408 128 l 25
+1365 299 m 25
+ 1536 128 l 25
+1365 427 m 25
+ 1664 128 l 25
+1365 555 m 25
+ 1792 128 l 25
+1365 683 m 25
+ 1920 128 l 25
+1365 811 m 25
+ 2048 128 l 25
+1365 939 m 25
+ 2048 256 l 25
+1365 1067 m 25
+ 2048 384 l 25
+1408 1152 m 25
+ 2048 512 l 25
+1536 1152 m 25
+ 2048 640 l 25
+1664 1152 m 25
+ 2048 768 l 25
+1792 1152 m 25
+ 2048 896 l 25
+1920 1152 m 25
+ 2048 1024 l 25
+0 256 m 25
+ 128 128 l 25
+0 384 m 25
+ 256 128 l 25
+0 512 m 25
+ 384 128 l 25
+0 640 m 25
+ 512 128 l 25
+0 768 m 25
+ 640 128 l 25
+0 896 m 25
+ 683 213 l 25
+0 1024 m 25
+ 683 341 l 25
+0 1152 m 25
+ 683 469 l 25
+128 1152 m 25
+ 683 597 l 25
+256 1152 m 25
+ 683 725 l 25
+384 1152 m 25
+ 683 853 l 25
+512 1152 m 25
+ 683 981 l 25
+640 1152 m 25
+ 683 1109 l 25
+0 128 m 1
+ 683 128 l 1
+ 683 1152 l 1
+ 0 1152 l 1
+ 0 128 l 1
+683 128 m 1
+ 1365 128 l 1
+ 1365 1152 l 1
+ 683 1152 l 1
+ 683 128 l 1
+1365 128 m 1
+ 2048 128 l 1
+ 2048 469.333 2048 810.667 2048 1152 c 1
+ 1365 1152 l 1
+ 1365 128 l 1
+EndSplineSet
+Ligature2: "Compositio figurarum vexillorum-1" Iregio Eregio
 EndChar
 EndChars
 EndSplineFont
