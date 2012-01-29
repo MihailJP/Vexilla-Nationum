@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327808412
+ModificationTime: 1327810051
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -348,7 +348,7 @@ Grid
 256 0 m 25,0,0
 0 0 m 25,0,0
 EndSplineSet
-BeginChars: 65562 125
+BeginChars: 65562 126
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -2245,7 +2245,76 @@ SplineSet
  0 1338 l 1
  0 -27 l 1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "Compositio figurarum vexillorum-1" Fregio Rregio
+EndChar
+
+StartChar: Italia
+Encoding: 60884 60884 125
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 25
+ 27 -27 l 25
+0 128 m 25
+ 155 -27 l 25
+0 256 m 25
+ 283 -27 l 25
+0 384 m 25
+ 411 -27 l 25
+0 512 m 25
+ 539 -27 l 25
+0 640 m 25
+ 667 -27 l 25
+0 768 m 25
+ 682 86 l 25
+0 896 m 25
+ 682 214 l 25
+0 1024 m 25
+ 682 342 l 25
+0 1152 m 25
+ 682 470 l 25
+0 1280 m 25
+ 682 598 l 25
+70 1338 m 25
+ 682 726 l 25
+198 1338 m 25
+ 682 854 l 25
+326 1338 m 25
+ 682 982 l 25
+454 1338 m 25
+ 682 1110 l 25
+582 1338 m 25
+ 682 1238 l 25
+1920 1338 m 25
+ 1920 -27 l 25
+1792 1338 m 25
+ 1792 -27 l 25
+1664 1338 m 25
+ 1664 -27 l 25
+1536 1338 m 25
+ 1536 -27 l 25
+1408 1338 m 25
+ 1408 -27 l 25
+0 -27 m 1
+ 682.667 -27 l 1
+ 682.667 1338.33 l 1
+ 0 1338.33 l 1
+ 0 -27 l 1
+682.667 -27 m 1
+ 1365.33 -27 l 1
+ 1365.33 1338.33 l 1
+ 682.667 1338.33 l 1
+ 682.667 -27 l 1
+1365.33 -27 m 1
+ 2048 -27 l 1
+ 2048 1338.33 l 1
+ 1365.33 1338.33 l 1
+ 1365.33 -27 l 1
+EndSplineSet
+Ligature2: "Compositio figurarum vexillorum-1" Iregio Rregio
 EndChar
 EndChars
 EndSplineFont
