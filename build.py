@@ -8,7 +8,7 @@ for Glyph in Font.glyphs():
 		for Contour in Glyph.foreground:
 			if len(Contour) == 1:
 				X = Contour[0].x; Y = Contour[0].y
-				Radius = 18
+				Radius = 12
 				MagnPnct = fontforge.contour()
 				MagnPnct += fontforge.point(X+Radius,Y+Radius,False)
 				MagnPnct += fontforge.point(X+Radius,Y,True)
@@ -24,6 +24,8 @@ for Glyph in Font.glyphs():
 				MagnPnct += fontforge.point(X+Radius,Y+Radius,False)
 				MagnPnct.closed = True
 				Glyph.foreground += MagnPnct
-		Glyph.stroke("circular",24,"round","miter",())
+		Glyph.stroke("circular",16,"round","miter",())
+		Glyph.removeOverlap()
+		Glyph.simplify(0,("mergelines",),0,0,0)
 Font.strokedfont = False
 Font.generate("VexillaNationum.ttf")

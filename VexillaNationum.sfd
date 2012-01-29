@@ -6,7 +6,7 @@ Weight: Medium
 Copyright: Created by MihailJP with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2012-1-28: Created." 
 Version: 001.000
-StrokeWidth: 24
+StrokeWidth: 16
 ItalicAngle: 0
 UnderlinePosition: -202
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327826044
+ModificationTime: 1327826544
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -4672,6 +4672,7 @@ SplineSet
  2048 529 l 1
  886 529 l 1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "Compositio figurarum vexillorum-1" Dregio Kregio
 EndChar
 EndChars
