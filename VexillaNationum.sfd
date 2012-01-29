@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327826544
+ModificationTime: 1327827507
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 60704 16 2
+WinInfo: 60768 16 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1691,7 +1691,7 @@ Grid
 256 0 m 25
 0 0 m 25
 EndSplineSet
-BeginChars: 65563 132
+BeginChars: 65563 133
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -4674,6 +4674,81 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Compositio figurarum vexillorum-1" Dregio Kregio
+EndChar
+
+StartChar: Finnia
+Encoding: 60777 60777 132
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+569 64 m 25
+ 910 64 l 25
+569 128 m 25
+ 910 128 l 25
+569 192 m 25
+ 910 192 l 25
+569 256 m 25
+ 910 256 l 25
+569 320 m 25
+ 910 320 l 25
+569 384 m 25
+ 910 384 l 25
+569 448 m 25
+ 910 448 l 25
+0 512 m 25
+ 2048 512 l 25
+0 576 m 25
+ 2048 576 l 25
+0 640 m 25
+ 2048 640 l 25
+0 704 m 25
+ 2048 704 l 25
+0 768 m 25
+ 2048 768 l 25
+569 832 m 25
+ 910 832 l 25
+569 896 m 25
+ 910 896 l 25
+569 960 m 25
+ 910 960 l 25
+569 1024 m 25
+ 910 1024 l 25
+569 1088 m 25
+ 910 1088 l 25
+569 1152 m 25
+ 910 1152 l 25
+569 1216 m 25
+ 910 1216 l 25
+0 14 m 1
+ 569 14 l 1
+ 910 14 l 1
+ 2048 14 l 1
+ 2048 469 l 1
+ 2048 810 l 1
+ 2048 1266 l 1
+ 910 1266 l 1
+ 569 1266 l 1
+ 0 1266 l 1
+ 0 810 l 1
+ 0 469 l 1
+ 0 14 l 1
+569 810 m 1
+ 0 810 l 1
+ 0 469 l 1
+ 569 469 l 1
+ 569 14 l 1
+ 910 14 l 1
+ 910 469 l 1
+ 2048 469 l 1
+ 2048 810 l 1
+ 910 810 l 1
+ 910 1266 l 1
+ 569 1266 l 1
+ 569 810 l 1
+EndSplineSet
+Ligature2: "Compositio figurarum vexillorum-1" Fregio Iregio
 EndChar
 EndChars
 EndSplineFont
