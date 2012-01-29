@@ -1,67 +1,64 @@
 =============================================================================
-Vexilla Nationum  -  Typus vexillorum nationum
+Vexilla Nationum  -  National flag font
 =============================================================================
 
 
-DESCRIPTIO
+DESCRIPTION
 
-    Hic typus (anglice Font) includere figuras vexillorum nationum mundi
-intendit.
-
-
-SPECIFICATIO
-
-    Typi monochromatici sunt, et tractare colores non possunt.  Ergo hic
-typus Systema Petrae Sanctae utitur ut colores exhibendos distinguant.
-
-    Puncti codicis ab U+1F1E6 ad U+1F1FF cum codice bilitterali nationum
-vexillos repraesentare intenduntur.  ISO 3166-1 cum duobus alphabeto
-(alpha-2) usum pro codice nationum est; e. g. JP pro Iaponia, IT pro Italia,
-RU pro Russia.
-    Exceptionaliter, SU codex pro non iam existente Unione Sovietica est.
-AQ officialiter por Antarctica assignatum est, sed terra nullarum nationum
-est et nulla vexilla officialia existant.
-
-    Pro systemate sine compositione glypharum, punctos codicis in regione
-usus privati (anglice Private Use Area) uti potes.  U+ECC1 pro AA (codex
-assignabilis ab usoribus), U+ECC2 pro AB (codex inassignatus), &c. ad U+ECDA
-quod pro AZ (Adrabigania) est assignatur.  Por BA (Bosnia et Herzegovina),
-in U+ECE1 assignant, similiter BZ (Beliza) in U+ECFA, ZZ (codex assignabilis
-ab usoribus) in U+EFFA.
+    This font intends to include figures of the world's national flags.
 
 
-REPRAESENTATIO COLORUM
+SPECIFICATION
 
-    Systema Petrae Sanctae in tinctura heraldica infra explanatur.
+    Fonts are monochrome, and cannot deal with colors.  Therefore this font
+uses Petra Sancta's system for colors which should be distinguished.
 
-  Metalla:
+    Code points from U+1F1E6 to U+1F1FF are intended to represent national
+flags with biliteral country code.  ISO 3166-1 alpha-2 is used for the
+country code; for example JP for Japan, IT for Italy, RU for Russia.
+    Exceptionally, SU is the code for no-longer-existent Soviet Union.  AQ is
+officially assigned for Antarctica, but it is territory of no country and
+no official flags exist.
+
+    For systems without glyph composition, you may use the code point in the
+Private Use Area.  U+ECC1 is assigned for AA (user-assignable code), U+ECC2
+for AB (unassigned), &c. to U+ECDA which is for AZ (Azerbaijan).  For BA
+(Bosnia and Herzegovina), assigned in U+ECE1, similarly BZ (Belize) at U+ECFA,
+ZZ (user-assignable code) at U+EFFA.
+
+
+COLOUR REPRESENTATION
+
+    Petra Sancta's system in heraldic tincture is explained below.
+
+  Metals:
 +---------+                            +---------+
-|:::::::::|   Aureus (Flavus)          |         |   Argenteus (Albus)
-|:::::::::|   Or francogallice         |         |   Argent francogallice
+|:::::::::|   Gold (Yellow)            |         |   Silver (White)
+|:::::::::|   Or                       |         |   Argent
 +---------+                            +---------+
 
-  Colores:
+  Colours:
 +---------+                            +---------+
-|---------|   Azurus                   |||||||||||   Rubeus
-|---------|   Azure francogallice      |||||||||||   Gules francogallice
+|---------|   Blue                     |||||||||||   Red
+|---------|   Azure                    |||||||||||   Gules
 +---------+                            +---------+
 +---------+                            +---------+
-|/////////|   Purpureus                |\\\\\\\\\|   Viridis
-|/////////|   Purpure francogallice    |\\\\\\\\\|   Vert francogallice
+|/////////|   Purple                   |\\\\\\\\\|   Green
+|/////////|   Purpure                  |\\\\\\\\\|   Vert
 +---------+                            +---------+
 +---------+
-|+++++++++|   Niger
-|+++++++++|   Sable francogallice
+|+++++++++|   Black
+|+++++++++|   Sable
 +---------+
 
-  Maculae:
+  Stains:
 +---------+                            +---------+
-|\|\|\|\|\|   Arantius                 |XXXXXXXXX|   Aquilus
-|\|\|\|\|\|   Tenné francogallice      |XXXXXXXXX|   Murrey anglice
-+---------+   Tawny anglice            +---------+
+|\|\|\|\|\|   Tawny (Orange)           |XXXXXXXXX|   Brown (Murrey)
+|\|\|\|\|\|   Tenné                    |XXXXXXXXX|
++---------+                            +---------+
 
-  Aliae tincturae:
+  Other tinctures:
 +---------+
-|- - - - -|   Caeruleus
-| - - - - |   Bleu-Celeste francogallice
-+---------+   (In systemate Petrae Sanctae non est)
+|- - - - -|   Sky blue
+| - - - - |   Bleu-Celeste
++---------+   (Not in Petra Sancta's system)
