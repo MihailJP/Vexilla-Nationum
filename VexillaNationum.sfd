@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1327729045
-ModificationTime: 1327817147
+ModificationTime: 1327817870
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 61088 16 2
+WinInfo: 60800 16 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -347,7 +347,7 @@ Grid
 256 0 m 25,0,0
 0 0 m 25,0,0
 EndSplineSet
-BeginChars: 65563 129
+BeginChars: 65563 130
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -2610,6 +2610,105 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Ligature2: "Compositio figurarum vexillorum-1" Pregio Lregio
+EndChar
+
+StartChar: Graecia
+Encoding: 60818 60818 129
+Width: 2048
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+455 704 m 25
+ 759 704 l 25
+0 448 m 17
+ 75.4053 448 182.172 448 303 448 c 9
+455 448 m 17
+ 1038.48 448 1515.58 448 2048 448 c 9
+455 576 m 17
+ 1038.48 576 1515.58 576 2048 576 c 9
+759 832 m 25
+ 2048 832 l 25
+455 960 m 17
+ 558.751 960 666.279 960 759 960 c 9
+2048 1088 m 25
+ 455 1088 l 25
+0 1088 m 25
+ 303 1088 l 25
+0 960 m 25
+ 303 960 l 25
+0 704 m 25
+ 303 704 l 25
+0 576 m 17
+ 75.4053 576 182.172 576 303 576 c 9
+0 192 m 25
+ 2048 192 l 25
+0 -64 m 25
+ 2048 -64 l 25
+455 640 m 25
+ 759 640 l 25
+455 1024 m 17
+ 558.751 1024 666.279 1024 759 1024 c 9
+759 768 m 25
+ 2048 768 l 25
+2048 1152 m 25
+ 455 1152 l 25
+0 -128 m 25
+ 2048 -128 l 25
+0 256 m 25
+ 2048 256 l 25
+0 512 m 17
+ 75.4053 512 182.172 512 303 512 c 9
+0 640 m 25
+ 303 640 l 25
+455 512 m 17
+ 1038.48 512 1515.58 512 2048 512 c 9
+0 1024 m 25
+ 303 1024 l 25
+0 1152 m 25
+ 303 1152 l 25
+0 -164 m 1
+ 2048 -164 l 1
+ 2048 1201 l 1
+ 0 1201 l 1
+ 0 -164 l 1
+303 1201 m 1
+ 455 1201 l 1
+ 455 898 l 1
+ 759 898 l 1
+ 759 746 l 1
+ 455 746 l 1
+ 455 443 l 1
+ 2048 443 l 1
+ 2048 291 l 1
+ 0 291 l 1
+ 0 443 l 1
+ 303 443 l 1
+ 303 746 l 1
+ 0 746 l 1
+ 0 898 l 1
+ 303 898 l 1
+ 303 1201 l 1
+759 1050 m 1
+ 2048 1050 l 1
+ 2048 898 l 1
+ 759 898 l 1
+ 759 1050 l 1
+759 746 m 1
+ 2048 746 l 1
+ 2048 595 l 1
+ 759 595 l 1
+ 759 746 l 1
+0 443 m 1
+ 0 291 l 1
+ 0 443 l 1
+0 139 m 1
+ 2048 139 l 1
+ 2048 -12 l 1
+ 0 -12 l 1
+ 0 139 l 1
+EndSplineSet
+Ligature2: "Compositio figurarum vexillorum-1" Gregio Rregio
 EndChar
 EndChars
 EndSplineFont
